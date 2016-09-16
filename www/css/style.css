@@ -1,0 +1,61 @@
+/* header */
+.bar.bar-stable {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.bar.bar-stable .title {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.tabs .tab-title {
+    background-image: url(../img/parchemin.jpg);
+    font-family: 'FiveMinutes';
+    color: black;
+}
+.tab {
+    background-image: url(../img/parchemin.jpg);
+}
+
+.pane {
+  background-color: #FFF;
+  background-image: url(../img/parchemin.jpg);
+}
+.tabs-icon-top {
+    color: black;
+}
+
+.item-transparent {
+    background-color: transparent;
+}
+
+.item-complex .item-content, .item{
+    background-color: transparent;
+    font-family: 'FiveMinutes';
+    border: 0px;
+}
+
+
+
+
+h2 {
+    font-family: 'FiveMinutes';
+    font-size: 30px;
+    text-align: center;
+}
+h3 {
+    font-family: 'FiveMinutes';
+    font-size: 30px;
+}
+p {
+    font-family: 'FiveMinutes';
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: 'FiveMinutes';
+    src: url(../fonts/FiveMinutes.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 100;
+}
